@@ -1,5 +1,5 @@
 # algorithms-GUI
-This is an exercise in implementing a simple GUI.
+This is my first exercise in implementing a simple GUI.
 
 The programs for this assignment have been written in Python (ver 3.8.2). The library
 ‘Tkinter’, which is part of the Python Standard Library, has been used to write the user
